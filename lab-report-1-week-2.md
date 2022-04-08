@@ -1,0 +1,1 @@
+![lab2-code](images/first-created-page-code.PNG)
