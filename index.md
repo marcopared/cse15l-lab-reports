@@ -1,7 +1,7 @@
 # yuh
 ## This is an .md file to be used for CSE 15L.
 
-This is an *italic* and this is a **bold**. Here is [spongebob](https://en.wikipedia.org/wiki/SpongeBob_SquarePants) and here is an image of spongebob: ![Image](https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/640px-SpongeBob_SquarePants_character.svg.png)
+This is an *italic* and this is a **bold**. Here is [spongebob](https://en.wikipedia.org/wiki/SpongeBob_SquarePants) and here is an image of spongebob: ![Image](https://pbs.twimg.com/media/EIPm7xGXsAAhRSJ?format=jpg&name=large)
 
 Here is a small quote by spongebob:
 > patrick
