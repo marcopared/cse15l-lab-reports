@@ -1,7 +1,7 @@
 # Tutorial for logging into a course-specific account on `ieng6`
 
 ## Installing VScode
-Begin by downloading VScode by going to https://code.visualstudio.com/. Download VScode for your OS, if you are using Windows then you can just click the big blue button on the main page.
+Begin by downloading VScode by going to their [website](https://code.visualstudio.com/). Download VScode for your OS, if you are using Windows then you can just click the big blue button on the main page.
 
 ![step1](images/step1.PNG)
 
