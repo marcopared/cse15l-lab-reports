@@ -23,6 +23,7 @@ Feel free to try some commands, here are some examples:
 * ls: lists all the files and folders in the current directory
 * cd: move into a specific folder or move out with `..`
 * ls -a: lists all files and directories including hidden files
+To learn more commands for Windows, consult this [page](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows).
 
 ![step3](images/step3.PNG)
 
@@ -59,11 +60,10 @@ You can combine different commands into one. Here are some tips!
 * It can be too much to login into the ssh just to do one command then exit. To do it all in one command you can use quotes. For example: `$ ssh <username>@ieng6.ucsd.edu "ls"`
 * You can also use semicolons to run multiple commands on any terminal. For example you can do `$ ls; pwd` to print all the directories/files and then list the current directory. 
 
-You can combine the previous tips into one command to copy a file into the ssh all while doing multiple commands in there!
+You can combine the previous tips into one command to copy a file into the ssh all while doing multiple commands in there! If you want more examples or cheat sheet, check out this [website](https://www.codecademy.com/article/command-line-commands).
 
 ```
 $ scp <file> <username>@ieng6.ucsd.edu:~/; ssh <username>@ieng6.ucsd.edu "ls; <command-1>; <command-2>"
-
 
 ```
 
